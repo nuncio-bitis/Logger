@@ -10,6 +10,6 @@ $ make
 ```
 
 The Logger library is put into the top-level directory.  
-Test executables are put into the bin directory.
+Test executables are put into the bin directory. Output from the test executables is put into the data directory.
 
 ---
